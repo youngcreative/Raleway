@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"/CR"
+);
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
@@ -76726,19 +76729,37 @@ unicode = 11AB9;
 {
 color = 3;
 glyphname = "spa-canadian";
-lastChange = "2024-08-07 18:47:39 +0000";
+lastChange = "2024-08-07 19:05:41 +0000";
 layers = (
 {
+components = (
+{
+name = N;
+transform = "{-1, 0, 0, 1, 776, 0}";
+}
+);
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 600;
+width = 776;
 },
 {
+components = (
+{
+name = N;
+transform = "{-1, 0, 0, 1, 770, 0}";
+}
+);
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 600;
+width = 770;
 },
 {
+components = (
+{
+name = N;
+transform = "{-1, 0, 0, 1, 754, 0}";
+}
+);
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 600;
+width = 754;
 }
 );
 unicode = 11ABF;
@@ -76746,19 +76767,34 @@ unicode = 11ABF;
 {
 color = 3;
 glyphname = "spe-canadian";
-lastChange = "2024-08-07 18:47:39 +0000";
+lastChange = "2024-08-07 19:06:24 +0000";
 layers = (
 {
+components = (
+{
+name = Z;
+}
+);
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 600;
+width = 624;
 },
 {
+components = (
+{
+name = Z;
+}
+);
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 600;
+width = 631;
 },
 {
+components = (
+{
+name = Z;
+}
+);
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 600;
+width = 622;
 }
 );
 unicode = 11ABC;
@@ -76766,19 +76802,37 @@ unicode = 11ABC;
 {
 color = 3;
 glyphname = "spi-canadian";
-lastChange = "2024-08-07 18:47:39 +0000";
+lastChange = "2024-08-07 19:06:51 +0000";
 layers = (
 {
+components = (
+{
+name = Z;
+transform = "{-1, 0, 0, 1, 624, 0}";
+}
+);
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 600;
+width = 624;
 },
 {
+components = (
+{
+name = Z;
+transform = "{-1, 0, 0, 1, 631, 0}";
+}
+);
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 600;
+width = 631;
 },
 {
+components = (
+{
+name = Z;
+transform = "{-1, 0, 0, 1, 622, 0}";
+}
+);
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 600;
+width = 622;
 }
 );
 unicode = 11ABD;
@@ -76786,19 +76840,34 @@ unicode = 11ABD;
 {
 color = 3;
 glyphname = "spo-canadian";
-lastChange = "2024-08-07 18:47:39 +0000";
+lastChange = "2024-08-07 19:04:49 +0000";
 layers = (
 {
+components = (
+{
+name = N;
+}
+);
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 600;
+width = 776;
 },
 {
+components = (
+{
+name = N;
+}
+);
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 600;
+width = 770;
 },
 {
+components = (
+{
+name = N;
+}
+);
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 600;
+width = 754;
 }
 );
 unicode = 11ABE;

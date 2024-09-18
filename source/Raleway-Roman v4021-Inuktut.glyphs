@@ -44,7 +44,7 @@ Tag = wght;
 date = "2024-08-07 18:17:35 +0000";
 designer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida";
 designerURL = "http://pixelspread.com";
-familyName = "Raleway-v4021a";
+familyName = "Raleway-Inuktut-001";
 featurePrefixes = (
 {
 automatic = 1;
@@ -243,10 +243,10 @@ value = -100;
 descender = -213;
 horizontalStems = (
 20,
-0,
-0,
-0,
-0
+20,
+20,
+20,
+20
 );
 id = "DC0D5209-C0CE-4187-A591-293A64199C8F";
 userData = {
@@ -257,8 +257,8 @@ GSOffsetVertical = 2;
 };
 verticalStems = (
 20,
-0,
-0
+20,
+20
 );
 visible = 1;
 weight = Light;
@@ -62856,14 +62856,16 @@ unicode = 1403;
 {
 color = 3;
 glyphname = "ii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "i-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 177, 0}";
 }
@@ -62874,9 +62876,11 @@ width = 776;
 {
 components = (
 {
+alignment = -1;
 name = "i-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 165, 0}";
 }
@@ -62887,9 +62891,11 @@ width = 752;
 {
 components = (
 {
+alignment = -1;
 name = "i-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 207, 0}";
 }
@@ -62903,7 +62909,7 @@ unicode = 1404;
 {
 color = 3;
 glyphname = "o-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -63035,21 +63041,21 @@ nodes = (
 width = 710;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1405;
 },
 {
 color = 3;
 glyphname = "oo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "o-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -140, 0}";
 }
@@ -63060,9 +63066,11 @@ width = 770;
 {
 components = (
 {
+alignment = -1;
 name = "o-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -114, 0}";
 }
@@ -63073,9 +63081,11 @@ width = 751;
 {
 components = (
 {
+alignment = -1;
 name = "o-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -142, 0}";
 }
@@ -63230,11 +63240,12 @@ unicode = 1409;
 {
 color = 3;
 glyphname = "a-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "o-canadian";
 transform = "{-1, 0, 0, 1, 770, 0}";
 }
@@ -63245,6 +63256,7 @@ width = 770;
 {
 components = (
 {
+alignment = -1;
 name = "o-canadian";
 transform = "{-1, 0, 0, 1, 751, 0}";
 }
@@ -63255,6 +63267,7 @@ width = 751;
 {
 components = (
 {
+alignment = -1;
 name = "o-canadian";
 transform = "{-1, 0, 0, 1, 710, 0}";
 }
@@ -63268,11 +63281,12 @@ unicode = 140A;
 {
 color = 3;
 glyphname = "aa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "oo-canadian";
 transform = "{-1, 0, 0, 1, 770, 0}";
 }
@@ -63283,6 +63297,7 @@ width = 770;
 {
 components = (
 {
+alignment = -1;
 name = "oo-canadian";
 transform = "{-1, 0, 0, 1, 751, 0}";
 }
@@ -63293,6 +63308,7 @@ width = 751;
 {
 components = (
 {
+alignment = -1;
 name = "oo-canadian";
 transform = "{-1, 0, 0, 1, 710, 0}";
 }
@@ -64371,7 +64387,7 @@ unicode = 142E;
 {
 color = 3;
 glyphname = "pe-canadian";
-lastChange = "2024-09-14 17:23:09 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -64446,8 +64462,6 @@ nodes = (
 width = 947;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 142F;
 },
 {
@@ -64500,7 +64514,7 @@ unicode = 1430;
 {
 color = 3;
 glyphname = "pi-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -64554,21 +64568,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 947;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1431;
 },
 {
 color = 3;
 glyphname = "pii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "pi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 181, 0}";
 }
@@ -64579,9 +64593,11 @@ width = 784;
 {
 components = (
 {
+alignment = -1;
 name = "pi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 184, 0}";
 }
@@ -64592,9 +64608,11 @@ width = 791;
 {
 components = (
 {
+alignment = -1;
 name = "pi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 248, 0}";
 }
@@ -64724,14 +64742,16 @@ unicode = 1433;
 {
 color = 3;
 glyphname = "poo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "po-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -129, 0}";
 }
@@ -64742,9 +64762,11 @@ width = 740;
 {
 components = (
 {
+alignment = -1;
 name = "po-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -109, 0}";
 }
@@ -64755,9 +64777,11 @@ width = 750;
 {
 components = (
 {
+alignment = -1;
 name = "po-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -123, 0}";
 }
@@ -65026,11 +65050,12 @@ unicode = 1437;
 {
 color = 3;
 glyphname = "pa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "po-canadian";
 transform = "{-1, 0, 0, 1, 740, 0}";
 }
@@ -65041,6 +65066,7 @@ width = 740;
 {
 components = (
 {
+alignment = -1;
 name = "po-canadian";
 transform = "{-1, 0, 0, 1, 750, 0}";
 }
@@ -65051,6 +65077,7 @@ width = 750;
 {
 components = (
 {
+alignment = -1;
 name = "po-canadian";
 transform = "{-1, 0, 0, 1, 710, 0}";
 }
@@ -65064,11 +65091,12 @@ unicode = 1438;
 {
 color = 3;
 glyphname = "paa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "poo-canadian";
 transform = "{-1, 0, 0, 1, 740, 0}";
 }
@@ -65079,6 +65107,7 @@ width = 740;
 {
 components = (
 {
+alignment = -1;
 name = "poo-canadian";
 transform = "{-1, 0, 0, 1, 750, 0}";
 }
@@ -65089,6 +65118,7 @@ width = 750;
 {
 components = (
 {
+alignment = -1;
 name = "poo-canadian";
 transform = "{-1, 0, 0, 1, 710, 0}";
 }
@@ -65757,7 +65787,7 @@ unicode = 1448;
 {
 color = 3;
 glyphname = "p-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -65878,8 +65908,6 @@ nodes = (
 width = 404;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "=e-canadian+20";
 unicode = 1449;
 },
 {
@@ -66074,7 +66102,7 @@ unicode = 144B;
 {
 color = 3;
 glyphname = "te-canadian";
-lastChange = "2024-09-15 20:32:01 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -66206,8 +66234,6 @@ nodes = (
 width = 732;
 }
 );
-leftMetricsKey = "=e-canadian*1.5";
-rightMetricsKey = "=e-canadian*1.5";
 unicode = 144C;
 },
 {
@@ -66409,14 +66435,16 @@ unicode = 144E;
 {
 color = 3;
 glyphname = "tii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ti-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 181, 0}";
 }
@@ -66427,9 +66455,11 @@ width = 784;
 {
 components = (
 {
+alignment = -1;
 name = "ti-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 166, 0}";
 }
@@ -66440,9 +66470,11 @@ width = 754;
 {
 components = (
 {
+alignment = -1;
 name = "ti-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 143, 0}";
 }
@@ -66605,49 +66637,54 @@ unicode = 1450;
 {
 color = 3;
 glyphname = "too-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "to-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 761;
+width = 710;
 },
 {
 components = (
 {
+alignment = -1;
 name = "to-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 766;
+width = 724;
 },
 {
 components = (
 {
+alignment = -1;
 name = "to-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 766;
+width = 742;
 }
 );
-rightMetricsKey = "=+50";
 unicode = 1451;
 },
 {
@@ -67057,14 +67094,16 @@ unicode = 1455;
 {
 color = 3;
 glyphname = "taa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ta-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 249, 0}";
 }
@@ -67075,9 +67114,11 @@ width = 711;
 {
 components = (
 {
+alignment = -1;
 name = "ta-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 254, 0}";
 }
@@ -67088,9 +67129,11 @@ width = 716;
 {
 components = (
 {
+alignment = -1;
 name = "ta-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 242, 0}";
 }
@@ -67481,7 +67524,7 @@ transform = "{1, 0, 0, 1, 18, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 1031;
+width = 980;
 },
 {
 components = (
@@ -67495,7 +67538,7 @@ transform = "{1, 0, 0, 1, 18, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 1036;
+width = 994;
 },
 {
 components = (
@@ -67509,7 +67552,7 @@ transform = "{1, 0, 0, 1, 18, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 1036;
+width = 1012;
 }
 );
 leftMetricsKey = "=+220";
@@ -67532,7 +67575,7 @@ transform = "{1, 0, 0, 1, 672, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 981;
+width = 930;
 },
 {
 components = (
@@ -67545,7 +67588,7 @@ transform = "{1, 0, 0, 1, 672, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 986;
+width = 944;
 },
 {
 components = (
@@ -67558,7 +67601,7 @@ transform = "{1, 0, 0, 1, 672, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 986;
+width = 962;
 }
 );
 rightMetricsKey = "=+220";
@@ -67651,43 +67694,43 @@ layers = (
 components = (
 {
 name = "too-canadian";
-transform = "{-1, 0, 0, 1, 981, 0}";
+transform = "{-1, 0, 0, 1, 930, 0}";
 },
 {
 name = g725_right;
-transform = "{-1, 0, 0, 1, 309, 0}";
+transform = "{-1, 0, 0, 1, 258, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 981;
+width = 930;
 },
 {
 components = (
 {
 name = "too-canadian";
-transform = "{-1, 0, 0, 1, 986, 0}";
+transform = "{-1, 0, 0, 1, 944, 0}";
 },
 {
 name = g725_right;
-transform = "{-1, 0, 0, 1, 314, 0}";
+transform = "{-1, 0, 0, 1, 272, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 986;
+width = 944;
 },
 {
 components = (
 {
 name = "too-canadian";
-transform = "{-1, 0, 0, 1, 986, 0}";
+transform = "{-1, 0, 0, 1, 962, 0}";
 },
 {
 name = g725_right;
-transform = "{-1, 0, 0, 1, 314, 0}";
+transform = "{-1, 0, 0, 1, 290, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 986;
+width = 962;
 }
 );
 leftMetricsKey = "=+220";
@@ -67702,43 +67745,43 @@ layers = (
 components = (
 {
 name = "too-canadian";
-transform = "{-1, 0, 0, 1, 761, 0}";
+transform = "{-1, 0, 0, 1, 710, 0}";
 },
 {
 name = g725_left;
-transform = "{-1, 0, 0, 1, 963, 0}";
+transform = "{-1, 0, 0, 1, 912, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 981;
+width = 930;
 },
 {
 components = (
 {
 name = "too-canadian";
-transform = "{-1, 0, 0, 1, 766, 0}";
+transform = "{-1, 0, 0, 1, 724, 0}";
 },
 {
 name = g725_left;
-transform = "{-1, 0, 0, 1, 968, 0}";
+transform = "{-1, 0, 0, 1, 926, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 986;
+width = 944;
 },
 {
 components = (
 {
 name = "too-canadian";
-transform = "{-1, 0, 0, 1, 766, 0}";
+transform = "{-1, 0, 0, 1, 742, 0}";
 },
 {
 name = g725_left;
-transform = "{-1, 0, 0, 1, 968, 0}";
+transform = "{-1, 0, 0, 1, 944, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 986;
+width = 962;
 }
 );
 rightMetricsKey = "=+220";
@@ -67805,7 +67848,7 @@ unicode = 1465;
 {
 color = 3;
 glyphname = "t-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -67949,8 +67992,6 @@ nodes = (
 width = 352;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1466;
 },
 {
@@ -68388,7 +68429,7 @@ unicode = 146C;
 {
 color = 3;
 glyphname = "ki-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -68403,6 +68444,7 @@ position = "{884, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ke-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -68423,6 +68465,7 @@ position = "{914, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ke-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -68443,6 +68486,7 @@ position = "{927, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ke-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -68456,14 +68500,16 @@ unicode = 146D;
 {
 color = 3;
 glyphname = "kii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ki-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 91, 0}";
 }
@@ -68474,9 +68520,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "ki-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 91, 0}";
 }
@@ -68487,9 +68535,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "ki-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 79, 0}";
 }
@@ -68562,14 +68612,16 @@ unicode = 146F;
 {
 color = 3;
 glyphname = "koo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ko-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 297, 0}";
 }
@@ -68580,9 +68632,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "ko-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 286, 0}";
 }
@@ -68593,9 +68647,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "ko-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 246, 0}";
 }
@@ -68656,7 +68712,7 @@ unicode = 1471;
 {
 color = 3;
 glyphname = "ka-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -68671,6 +68727,7 @@ position = "{922, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ko-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -68691,6 +68748,7 @@ position = "{922, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ko-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -68711,6 +68769,7 @@ position = "{922, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ko-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -68724,14 +68783,16 @@ unicode = 1472;
 {
 color = 3;
 glyphname = "kaa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ka-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -119, 0}";
 }
@@ -68742,9 +68803,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "ka-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -108, 0}";
 }
@@ -68755,9 +68818,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "ka-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -92, 0}";
 }
@@ -69547,7 +69612,7 @@ unicode = 1482;
 {
 color = 3;
 glyphname = "k-canadian";
-lastChange = "2024-09-16 20:42:05 +0000";
+lastChange = "2024-09-18 00:52:14 +0000";
 layers = (
 {
 anchors = (
@@ -69565,12 +69630,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"81 711 LINE",
-"60 711 LINE",
-"60 476 LINE",
-"60 397 OFFCURVE",
-"100 350 OFFCURVE",
-"172 350 CURVE",
 "243 350 OFFCURVE",
 "284 397 OFFCURVE",
 "284 476 CURVE",
@@ -69581,26 +69640,32 @@ nodes = (
 "120 621 OFFCURVE",
 "88 593 OFFCURVE",
 "73 550 CURVE",
-"81 551 LINE"
+"81 551 LINE",
+"81 711 LINE",
+"60 711 LINE",
+"60 476 LINE",
+"60 397 OFFCURVE",
+"100 350 OFFCURVE",
+"172 350 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"231 600 OFFCURVE",
-"263 563 OFFCURVE",
-"263 494 CURVE",
-"263 477 LINE",
-"263 409 OFFCURVE",
-"231 370 OFFCURVE",
-"172 370 CURVE",
 "113 370 OFFCURVE",
 "81 409 OFFCURVE",
 "81 477 CURVE",
 "81 494 LINE",
 "81 563 OFFCURVE",
 "113 600 OFFCURVE",
-"172 600 CURVE"
+"172 600 CURVE",
+"231 600 OFFCURVE",
+"263 563 OFFCURVE",
+"263 494 CURVE",
+"263 477 LINE",
+"263 409 OFFCURVE",
+"231 370 OFFCURVE",
+"172 370 CURVE"
 );
 }
 );
@@ -69622,12 +69687,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"141 711 LINE",
-"50 711 LINE",
-"50 476 LINE",
-"50 392 OFFCURVE",
-"93 345 OFFCURVE",
-"175 345 CURVE",
 "256 345 OFFCURVE",
 "299 392 OFFCURVE",
 "299 476 CURVE",
@@ -69638,7 +69697,13 @@ nodes = (
 "141 627 OFFCURVE",
 "106 591 OFFCURVE",
 "87 566 CURVE",
-"141 576 LINE"
+"141 576 LINE",
+"141 711 LINE",
+"50 711 LINE",
+"50 476 LINE",
+"50 392 OFFCURVE",
+"93 345 OFFCURVE",
+"175 345 CURVE"
 );
 },
 {
@@ -69679,12 +69744,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"192 710 LINE",
-"30 710 LINE",
-"30 469 LINE SMOOTH",
-"30 381 OFFCURVE",
-"84 330 OFFCURVE",
-"202 330 CURVE SMOOTH",
 "320 330 OFFCURVE",
 "374 381 OFFCURVE",
 "374 469 CURVE SMOOTH",
@@ -69695,7 +69754,13 @@ nodes = (
 "147 632 OFFCURVE",
 "107 577 OFFCURVE",
 "107 469 CURVE",
-"192 574 LINE"
+"192 574 LINE",
+"192 710 LINE",
+"30 710 LINE",
+"30 469 LINE SMOOTH",
+"30 381 OFFCURVE",
+"84 330 OFFCURVE",
+"202 330 CURVE SMOOTH"
 );
 },
 {
@@ -69721,8 +69786,6 @@ nodes = (
 width = 404;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1483;
 },
 {
@@ -69974,7 +70037,7 @@ unicode = 1488;
 {
 color = 3;
 glyphname = "ce-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -70106,8 +70169,6 @@ nodes = (
 width = 599;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1489;
 },
 {
@@ -70160,7 +70221,7 @@ unicode = 148A;
 {
 color = 3;
 glyphname = "ci-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -70179,6 +70240,7 @@ position = "{283, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "ce-canadian";
 transform = "{-1, 0, 0, 1, 565, 0}";
 }
@@ -70203,6 +70265,7 @@ position = "{296, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "ce-canadian";
 transform = "{-1, 0, 0, 1, 593, 0}";
 }
@@ -70227,6 +70290,7 @@ position = "{300, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "ce-canadian";
 transform = "{-1, 0, 0, 1, 599, 0}";
 }
@@ -70240,14 +70304,16 @@ unicode = 148B;
 {
 color = 3;
 glyphname = "cii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ci-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 72, 0}";
 }
@@ -70258,9 +70324,11 @@ width = 565;
 {
 components = (
 {
+alignment = -1;
 name = "ci-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 85, 0}";
 }
@@ -70271,9 +70339,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = "ci-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 77, 0}";
 }
@@ -70370,14 +70440,16 @@ unicode = 148D;
 {
 color = 3;
 glyphname = "coo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "co-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 282, 0}";
 }
@@ -70394,9 +70466,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "co-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 288, 0}";
 }
@@ -70413,9 +70487,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = "co-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 248, 0}";
 }
@@ -70479,7 +70555,7 @@ unicode = 148F;
 {
 color = 3;
 glyphname = "ca-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -70494,6 +70570,7 @@ position = "{922, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -70514,6 +70591,7 @@ position = "{922, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{-1, 0, 0, 1, 593, 0}";
 }
@@ -70534,6 +70612,7 @@ position = "{922, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -70547,11 +70626,12 @@ unicode = 1490;
 {
 color = 3;
 glyphname = "caa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -70562,6 +70642,7 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{-1, 0, 0, 1, 593, 0}";
 }
@@ -70572,6 +70653,7 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -71473,7 +71555,7 @@ unicode = 14A2;
 {
 color = 3;
 glyphname = "me-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -71590,8 +71672,6 @@ nodes = (
 width = 540;
 }
 );
-leftMetricsKey = "=e-canadian*1.5";
-rightMetricsKey = "=e-canadian*1.5";
 unicode = 14A3;
 },
 {
@@ -71644,7 +71724,7 @@ unicode = 14A4;
 {
 color = 3;
 glyphname = "mi-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -71663,6 +71743,7 @@ position = "{315, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "me-canadian";
 transform = "{-1, 0, 0, 1, 630, 0}";
 }
@@ -71687,6 +71768,7 @@ position = "{279, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "me-canadian";
 transform = "{-1, 0, 0, 1, 602, 0}";
 }
@@ -71711,6 +71793,7 @@ position = "{270, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "me-canadian";
 transform = "{-1, 0, 0, 1, 540, 0}";
 }
@@ -71724,14 +71807,16 @@ unicode = 14A5;
 {
 color = 3;
 glyphname = "mii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "mi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 104, 0}";
 }
@@ -71742,9 +71827,11 @@ width = 630;
 {
 components = (
 {
+alignment = -1;
 name = "mi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 68, 0}";
 }
@@ -71755,9 +71842,11 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "mi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 47, 0}";
 }
@@ -71771,7 +71860,7 @@ unicode = 14A6;
 {
 color = 3;
 glyphname = "mo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
@@ -71807,21 +71896,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 540;
 }
 );
-leftMetricsKey = "=e-canadian*1.5";
-rightMetricsKey = "=e-canadian*1.5";
 unicode = 14A7;
 },
 {
 color = 3;
 glyphname = "moo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ma-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 317, 0}";
 }
@@ -71832,9 +71921,11 @@ width = 630;
 {
 components = (
 {
+alignment = -1;
 name = "ma-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 273, 0}";
 }
@@ -71845,9 +71936,11 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "ma-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 174, 0}";
 }
@@ -71911,7 +72004,7 @@ unicode = 14A9;
 {
 color = 3;
 glyphname = "ma-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -71930,6 +72023,7 @@ position = "{528, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "mo-canadian";
 transform = "{-1, 0, 0, 1, 630, 0}";
 }
@@ -71954,6 +72048,7 @@ position = "{484, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "mo-canadian";
 transform = "{-1, 0, 0, 1, 602, 0}";
 }
@@ -71978,6 +72073,7 @@ position = "{397, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "mo-canadian";
 transform = "{-1, 0, 0, 1, 540, 0}";
 }
@@ -71991,11 +72087,12 @@ unicode = 14AA;
 {
 color = 3;
 glyphname = "maa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "moo-canadian";
 transform = "{-1, 0, 0, 1, 630, 0}";
 }
@@ -72006,6 +72103,7 @@ width = 630;
 {
 components = (
 {
+alignment = -1;
 name = "moo-canadian";
 transform = "{-1, 0, 0, 1, 602, 0}";
 }
@@ -72016,6 +72114,7 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "moo-canadian";
 transform = "{-1, 0, 0, 1, 540, 0}";
 }
@@ -72720,7 +72819,7 @@ unicode = 14BA;
 {
 color = 3;
 glyphname = "m-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -72795,8 +72894,6 @@ nodes = (
 width = 384;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 14BB;
 },
 {
@@ -73139,7 +73236,7 @@ unicode = 14BF;
 {
 color = 3;
 glyphname = "ne-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -73328,8 +73425,6 @@ nodes = (
 width = 858;
 }
 );
-leftMetricsKey = "=e-canadian+20";
-rightMetricsKey = "=e-canadian+20";
 unicode = 14C0;
 },
 {
@@ -73344,11 +73439,11 @@ name = "ni-canadian";
 },
 {
 name = g720;
-transform = "{1, 0, 0, 1, 169, -168}";
+transform = "{1, 0, 0, 1, 149, -168}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 874;
+width = 834;
 },
 {
 components = (
@@ -73357,11 +73452,11 @@ name = "ni-canadian";
 },
 {
 name = g720;
-transform = "{1, 0, 0, 1, 146, -168}";
+transform = "{1, 0, 0, 1, 125, -168}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 873;
+width = 833;
 },
 {
 components = (
@@ -73370,11 +73465,11 @@ name = "ni-canadian";
 },
 {
 name = g720;
-transform = "{1, 0, 0, 1, 152, -168}";
+transform = "{1, 0, 0, 1, 132, -168}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 858;
+width = 818;
 }
 );
 unicode = 14C1;
@@ -73382,55 +73477,32 @@ unicode = 14C1;
 {
 color = 3;
 glyphname = "ni-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = "centre-left_cdn";
-position = "{-185, 355}";
+position = "{-205, 355}";
 },
 {
 name = "centre-right_cdn";
-position = "{857, 355}";
+position = "{837, 355}";
 },
 {
 name = top_cdn;
-position = "{283, 542}";
+position = "{263, 542}";
 }
 );
 components = (
 {
+alignment = -1;
 name = "ne-canadian";
-transform = "{-1, 0, 0, 1, 874, 0}";
+transform = "{-1, 0, 0, 1, 854, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 874;
-},
-{
-anchors = (
-{
-name = "centre-left_cdn";
-position = "{-207, 355}";
-},
-{
-name = "centre-right_cdn";
-position = "{907, 355}";
-},
-{
-name = top_cdn;
-position = "{291, 542}";
-}
-);
-components = (
-{
-name = "ne-canadian";
-transform = "{-1, 0, 0, 1, 873, 0}";
-}
-);
-layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 873;
+width = 834;
 },
 {
 anchors = (
@@ -73440,38 +73512,64 @@ position = "{-228, 355}";
 },
 {
 name = "centre-right_cdn";
-position = "{924, 355}";
+position = "{886, 355}";
 },
 {
 name = top_cdn;
-position = "{300, 542}";
+position = "{270, 542}";
 }
 );
 components = (
 {
+alignment = -1;
 name = "ne-canadian";
-transform = "{-1, 0, 0, 1, 858, 0}";
+transform = "{-1, 0, 0, 1, 852, 0}";
+}
+);
+layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
+width = 833;
+},
+{
+anchors = (
+{
+name = "centre-left_cdn";
+position = "{-248, 355}";
+},
+{
+name = "centre-right_cdn";
+position = "{904, 355}";
+},
+{
+name = top_cdn;
+position = "{280, 542}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "ne-canadian";
+transform = "{-1, 0, 0, 1, 838, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 858;
+width = 818;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 14C2;
 },
 {
 color = 3;
 glyphname = "nii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ni-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 72, -168}";
 }
@@ -73482,9 +73580,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "ni-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 80, -168}";
 }
@@ -73495,9 +73595,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "ni-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 77, -168}";
 }
@@ -73511,7 +73613,7 @@ unicode = 14C3;
 {
 color = 3;
 glyphname = "no-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -73589,21 +73691,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 858;
 }
 );
-leftMetricsKey = "=e-canadian+20";
-rightMetricsKey = "=e-canadian+20";
 unicode = 14C4;
 },
 {
 color = 3;
 glyphname = "noo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "no-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 360, -168}";
 }
@@ -73614,9 +73716,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "no-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 351, -168}";
 }
@@ -73627,9 +73731,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "no-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 315, -168}";
 }
@@ -73693,7 +73799,7 @@ unicode = 14C6;
 {
 color = 3;
 glyphname = "na-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -73771,21 +73877,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 858;
 }
 );
-leftMetricsKey = "=e-canadian+20";
-rightMetricsKey = "=e-canadian+20";
 unicode = 14C7;
 },
 {
 color = 3;
 glyphname = "naa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "na-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 92, -168}";
 }
@@ -73796,9 +73902,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "na-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 99, -168}";
 }
@@ -73809,9 +73917,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "na-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 96, -168}";
 }
@@ -74182,7 +74292,7 @@ unicode = 14CF;
 {
 color = 3;
 glyphname = "n-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -74329,8 +74439,6 @@ nodes = (
 width = 473;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 14D0;
 },
 {
@@ -74479,7 +74587,7 @@ unicode = 14D2;
 {
 color = 3;
 glyphname = "le-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -74624,8 +74732,6 @@ nodes = (
 width = 858;
 }
 );
-leftMetricsKey = "=e-canadian+20";
-rightMetricsKey = "=e-canadian+20";
 unicode = 14D3;
 },
 {
@@ -74678,7 +74784,7 @@ unicode = 14D4;
 {
 color = 3;
 glyphname = "li-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -74697,6 +74803,7 @@ position = "{323, 542}";
 );
 components = (
 {
+alignment = -1;
 name = "le-canadian";
 transform = "{-1, 0, 0, 1, 874, 0}";
 }
@@ -74721,6 +74828,7 @@ position = "{331, 542}";
 );
 components = (
 {
+alignment = -1;
 name = "le-canadian";
 transform = "{-1, 0, 0, 1, 873, 0}";
 }
@@ -74745,6 +74853,7 @@ position = "{338, 542}";
 );
 components = (
 {
+alignment = -1;
 name = "le-canadian";
 transform = "{-1, 0, 0, 1, 858, 0}";
 }
@@ -74758,14 +74867,16 @@ unicode = 14D5;
 {
 color = 3;
 glyphname = "lii-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "li-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 112, -168}";
 }
@@ -74776,9 +74887,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "li-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 120, -168}";
 }
@@ -74789,9 +74902,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "li-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 115, -168}";
 }
@@ -74805,7 +74920,7 @@ unicode = 14D6;
 {
 color = 3;
 glyphname = "lo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -74883,21 +74998,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 858;
 }
 );
-leftMetricsKey = "=e-canadian+20";
-rightMetricsKey = "=e-canadian+20";
 unicode = 14D7;
 },
 {
 color = 3;
 glyphname = "loo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 360, -168}";
 }
@@ -74908,9 +75023,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 351, -168}";
 }
@@ -74921,9 +75038,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 315, -168}";
 }
@@ -74987,7 +75106,7 @@ unicode = 14D9;
 {
 color = 3;
 glyphname = "la-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -75006,6 +75125,7 @@ position = "{303, 542}";
 );
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 transform = "{-1, 0, 0, 1, 874, 0}";
 }
@@ -75017,21 +75137,22 @@ width = 874;
 anchors = (
 {
 name = "centre-left_cdn";
-position = "{-220, 355}";
+position = "{-221, 355}";
 },
 {
 name = "centre-right_cdn";
-position = "{946, 355}";
+position = "{945, 355}";
 },
 {
 name = top_cdn;
-position = "{310, 542}";
+position = "{309, 542}";
 }
 );
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
-transform = "{-1, 0, 0, 1, 873, 0}";
+transform = "{-1, 0, 0, 1, 872, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -75054,6 +75175,7 @@ position = "{319, 542}";
 );
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 transform = "{-1, 0, 0, 1, 858, 0}";
 }
@@ -75062,21 +75184,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 858;
 }
 );
-leftMetricsKey = "=e-canadian+20";
-rightMetricsKey = "=e-canadian+20";
 unicode = 14DA;
 },
 {
 color = 3;
 glyphname = "laa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "la-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 92, -168}";
 }
@@ -75087,9 +75209,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "la-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 99, -168}";
 }
@@ -75100,9 +75224,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "la-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 96, -168}";
 }
@@ -75665,7 +75791,7 @@ transform = "{1, 0, 0, 1, 200, 0}";
 },
 {
 name = g725_left;
-transform = "{1, 0, 0, 1, -20, 0}";
+transform = "{1, 0, 0, 1, -21, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -75714,7 +75840,7 @@ name = "la-canadian";
 },
 {
 name = g725_right;
-transform = "{1, 0, 0, 1, 546, 0}";
+transform = "{1, 0, 0, 1, 545, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -75765,11 +75891,11 @@ name = "la-canadian";
 },
 {
 name = g724;
-transform = "{1, 0, 0, 1, 99, -168}";
+transform = "{1, 0, 0, 1, 98, -168}";
 },
 {
 name = g725_left;
-transform = "{1, 0, 0, 1, -220, 0}";
+transform = "{1, 0, 0, 1, -221, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -75824,11 +75950,11 @@ name = "la-canadian";
 },
 {
 name = g724;
-transform = "{1, 0, 0, 1, 99, -168}";
+transform = "{1, 0, 0, 1, 98, -168}";
 },
 {
 name = g725_right;
-transform = "{1, 0, 0, 1, 546, 0}";
+transform = "{1, 0, 0, 1, 545, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
@@ -76122,7 +76248,7 @@ unicode = 14EC;
 {
 color = 3;
 glyphname = "se-canadian";
-lastChange = "2024-09-17 19:14:49 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -76239,8 +76365,6 @@ nodes = (
 width = 657;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 14ED;
 },
 {
@@ -76298,7 +76422,7 @@ unicode = 14EE;
 {
 color = 3;
 glyphname = "si-canadian";
-lastChange = "2024-09-17 19:12:56 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -76309,6 +76433,7 @@ position = "{16, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "se-canadian";
 transform = "{-1, 0, 0, 1, 602, 0}";
 }
@@ -76325,6 +76450,7 @@ position = "{-30, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "se-canadian";
 transform = "{-1, 0, 0, 1, 632, 0}";
 }
@@ -76341,6 +76467,7 @@ position = "{-48, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "se-canadian";
 transform = "{-1, 0, 0, 1, 657, 0}";
 }
@@ -76354,7 +76481,7 @@ unicode = 14EF;
 {
 color = 3;
 glyphname = "sii-canadian";
-lastChange = "2024-09-14 21:24:50 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -76369,9 +76496,11 @@ position = "{846, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "si-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 261, 0}";
 }
@@ -76392,9 +76521,11 @@ position = "{912, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "si-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 277, 0}";
 }
@@ -76415,9 +76546,11 @@ position = "{960, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "si-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 277, 0}";
 }
@@ -76431,7 +76564,7 @@ unicode = 14F0;
 {
 color = 3;
 glyphname = "so-canadian";
-lastChange = "2024-09-17 18:48:29 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -76521,21 +76654,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 657;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 14F1;
 },
 {
 color = 3;
 glyphname = "soo-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 261, 0}";
 }
@@ -76546,9 +76679,11 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 274, 0}";
 }
@@ -76559,9 +76694,11 @@ width = 632;
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 277, 0}";
 }
@@ -76625,7 +76762,7 @@ unicode = 14F3;
 {
 color = 3;
 glyphname = "sa-canadian";
-lastChange = "2024-09-17 18:52:20 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -76644,6 +76781,7 @@ position = "{16, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 transform = "{-1, 0, 0, 1, 602, 0}";
 }
@@ -76668,6 +76806,7 @@ position = "{-32, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 transform = "{-1, 0, 0, 1, 632, 0}";
 }
@@ -76692,6 +76831,7 @@ position = "{-54, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 transform = "{-1, 0, 0, 1, 657, 0}";
 }
@@ -76705,11 +76845,12 @@ unicode = 14F4;
 {
 color = 3;
 glyphname = "saa-canadian";
-lastChange = "2024-09-14 15:00:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
@@ -76724,6 +76865,7 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
@@ -76738,6 +76880,7 @@ width = 632;
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
@@ -77537,7 +77680,7 @@ unicode = 1504;
 {
 color = 3;
 glyphname = "s-canadian";
-lastChange = "2024-09-14 21:57:05 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -77612,8 +77755,6 @@ nodes = (
 width = 381;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1505;
 },
 {
@@ -78414,7 +78555,7 @@ unicode = 1525;
 {
 color = 3;
 glyphname = "ye-canadian";
-lastChange = "2024-09-16 18:18:23 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -78519,8 +78660,6 @@ nodes = (
 width = 604;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1526;
 },
 {
@@ -78573,7 +78712,7 @@ unicode = 1527;
 {
 color = 3;
 glyphname = "yi-canadian";
-lastChange = "2024-09-17 19:19:52 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -78592,6 +78731,7 @@ position = "{-31, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ye-canadian";
 transform = "{-1, 0, 0, 1, 491, 0}";
 }
@@ -78616,6 +78756,7 @@ position = "{-70, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ye-canadian";
 transform = "{-1, 0, 0, 1, 541, 0}";
 }
@@ -78640,6 +78781,7 @@ position = "{-71, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ye-canadian";
 transform = "{-1, 0, 0, 1, 604, 0}";
 }
@@ -78653,14 +78795,16 @@ unicode = 1528;
 {
 color = 3;
 glyphname = "yii-canadian";
-lastChange = "2024-09-14 16:39:19 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -140, 0}";
 }
@@ -78671,9 +78815,11 @@ width = 491;
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -104, 0}";
 }
@@ -78684,9 +78830,11 @@ width = 541;
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -72, 0}";
 }
@@ -78795,14 +78943,16 @@ unicode = 152A;
 {
 color = 3;
 glyphname = "yoo-canadian";
-lastChange = "2024-09-14 16:47:09 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 199, 0}";
 }
@@ -78813,9 +78963,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 226, 0}";
 }
@@ -78826,9 +78978,11 @@ width = 541;
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 245, 0}";
 }
@@ -78892,7 +79046,7 @@ unicode = 152C;
 {
 color = 3;
 glyphname = "ya-canadian";
-lastChange = "2024-09-16 18:52:22 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -78911,6 +79065,7 @@ position = "{186, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -78935,6 +79090,7 @@ position = "{108, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 transform = "{-1, 0, 0, 1, 541, 0}";
 }
@@ -78959,6 +79115,7 @@ position = "{131, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 transform = "{-1, 0, 0, 1, 600, 0}";
 }
@@ -78972,14 +79129,16 @@ unicode = 152D;
 {
 color = 3;
 glyphname = "yaa-canadian";
-lastChange = "2024-09-14 16:49:00 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ya-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -25, 0}";
 }
@@ -78990,9 +79149,11 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "ya-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -103, 0}";
 }
@@ -79003,9 +79164,11 @@ width = 541;
 {
 components = (
 {
+alignment = -1;
 name = "ya-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -92, 0}";
 }
@@ -79836,7 +79999,7 @@ unicode = 153D;
 {
 color = 3;
 glyphname = "y-canadian";
-lastChange = "2024-09-17 19:31:06 +0000";
+lastChange = "2024-09-18 00:51:49 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -79864,15 +80027,15 @@ paths = (
 {
 closed = 1;
 nodes = (
-"64 710 LINE",
-"64 510 LINE",
-"189 510 LINE",
-"50 355 LINE",
 "150 355 LINE",
 "314 534 LINE",
 "314 590 LINE",
 "154 590 LINE",
-"154 710 LINE"
+"154 710 LINE",
+"64 710 LINE",
+"64 510 LINE",
+"189 510 LINE",
+"50 355 LINE"
 );
 }
 );
@@ -79884,23 +80047,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"35 710 LINE",
-"35 490 LINE",
-"167 490 LINE",
-"30 332 LINE",
 "190 332 LINE",
 "345 486 LINE",
 "345 610 LINE",
 "195 610 LINE",
-"195 710 LINE"
+"195 710 LINE",
+"35 710 LINE",
+"35 490 LINE",
+"167 490 LINE",
+"30 332 LINE"
 );
 }
 );
 width = 375;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 153E;
 },
 {
@@ -80071,7 +80232,7 @@ unicode = 1542;
 {
 color = 3;
 glyphname = "reRCree-canadian";
-lastChange = "2024-09-14 17:02:12 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
@@ -80107,8 +80268,6 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 829;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1543;
 },
 {
@@ -80199,7 +80358,7 @@ unicode = 1545;
 {
 color = 3;
 glyphname = "ri-canadian";
-lastChange = "2024-09-14 17:06:07 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -80337,22 +80496,22 @@ nodes = (
 width = 829;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1546;
 },
 {
 color = 3;
 glyphname = "rii-canadian";
-lastChange = "2024-09-14 17:06:15 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ri-canadian";
 transform = "{-1, 0, 0, 1, 834, 0}";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 72, -168}";
 }
@@ -80363,10 +80522,12 @@ width = 834;
 {
 components = (
 {
+alignment = -1;
 name = "ri-canadian";
 transform = "{-1, 0, 0, 1, 833, 0}";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 80, -168}";
 }
@@ -80377,10 +80538,12 @@ width = 833;
 {
 components = (
 {
+alignment = -1;
 name = "ri-canadian";
 transform = "{-1, 0, 0, 1, 829, 0}";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 77, -168}";
 }
@@ -80394,7 +80557,7 @@ unicode = 1547;
 {
 color = 3;
 glyphname = "ro-canadian";
-lastChange = "2024-09-16 19:12:45 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -80541,21 +80704,21 @@ nodes = (
 width = 499;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1548;
 },
 {
 color = 3;
 glyphname = "roo-canadian";
-lastChange = "2024-09-14 17:22:03 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ro-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 43, 0}";
 }
@@ -80566,9 +80729,11 @@ width = 537;
 {
 components = (
 {
+alignment = -1;
 name = "ro-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 24, 0}";
 }
@@ -80579,9 +80744,11 @@ width = 526;
 {
 components = (
 {
+alignment = -1;
 name = "ro-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -24, 0}";
 }
@@ -80638,7 +80805,7 @@ unicode = 154A;
 {
 color = 3;
 glyphname = "ra-canadian";
-lastChange = "2024-09-16 19:20:49 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -80653,6 +80820,7 @@ position = "{852, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ro-canadian";
 transform = "{-1, 0, 0, 1, 537, 0}";
 }
@@ -80673,6 +80841,7 @@ position = "{874, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ro-canadian";
 transform = "{-1, 0, 0, 1, 526, 0}";
 }
@@ -80693,6 +80862,7 @@ position = "{846, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "ro-canadian";
 transform = "{-1, 0, 0, 1, 499, 0}";
 }
@@ -80706,14 +80876,16 @@ unicode = 154B;
 {
 color = 3;
 glyphname = "raa-canadian";
-lastChange = "2024-09-14 17:24:16 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ra-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 72, 0}";
 }
@@ -80724,9 +80896,11 @@ width = 537;
 {
 components = (
 {
+alignment = -1;
 name = "ra-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 80, 0}";
 }
@@ -80737,9 +80911,11 @@ width = 526;
 {
 components = (
 {
+alignment = -1;
 name = "ra-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 77, 0}";
 }
@@ -80914,7 +81090,7 @@ unicode = 154F;
 {
 color = 3;
 glyphname = "r-canadian";
-lastChange = "2024-09-14 17:43:44 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -81019,8 +81195,6 @@ nodes = (
 width = 306;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1550;
 },
 {
@@ -81102,7 +81276,7 @@ unicode = 1552;
 {
 color = 3;
 glyphname = "fe-canadian";
-lastChange = "2024-09-15 19:31:21 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -81273,8 +81447,6 @@ nodes = (
 width = 899;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1553;
 },
 {
@@ -81327,7 +81499,7 @@ unicode = 1554;
 {
 color = 3;
 glyphname = "fi-canadian";
-lastChange = "2024-09-15 19:30:36 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -81405,21 +81577,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 899;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1555;
 },
 {
 color = 3;
 glyphname = "fii-canadian";
-lastChange = "2024-09-15 19:30:28 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "fi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 128, 0}";
 }
@@ -81430,9 +81602,11 @@ width = 778;
 {
 components = (
 {
+alignment = -1;
 name = "fi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 165, 0}";
 }
@@ -81443,9 +81617,11 @@ width = 850;
 {
 components = (
 {
+alignment = -1;
 name = "fi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 174, 0}";
 }
@@ -81469,7 +81645,7 @@ unicode = 1556;
 {
 color = 3;
 glyphname = "fo-canadian";
-lastChange = "2024-09-16 19:28:39 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -81640,21 +81816,21 @@ nodes = (
 width = 804;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1557;
 },
 {
 color = 3;
 glyphname = "foo-canadian";
-lastChange = "2024-09-15 20:17:57 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "fo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 }
 );
@@ -81664,9 +81840,11 @@ width = 841;
 {
 components = (
 {
+alignment = -1;
 name = "fo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 17, 0}";
 }
@@ -81677,9 +81855,11 @@ width = 834;
 {
 components = (
 {
+alignment = -1;
 name = "fo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -4, 0}";
 }
@@ -81693,7 +81873,7 @@ unicode = 1558;
 {
 color = 3;
 glyphname = "fa-canadian";
-lastChange = "2024-09-16 19:33:00 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -81708,6 +81888,7 @@ position = "{1145, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "fo-canadian";
 transform = "{-1, 0, 0, 1, 841, 0}";
 }
@@ -81728,6 +81909,7 @@ position = "{1164, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "fo-canadian";
 transform = "{-1, 0, 0, 1, 834, 0}";
 }
@@ -81748,6 +81930,7 @@ position = "{1127, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "fo-canadian";
 transform = "{-1, 0, 0, 1, 804, 0}";
 }
@@ -81761,14 +81944,16 @@ unicode = 1559;
 {
 color = 3;
 glyphname = "faa-canadian";
-lastChange = "2024-09-15 20:19:06 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "fa-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 419, 0}";
 }
@@ -81779,9 +81964,11 @@ width = 841;
 {
 components = (
 {
+alignment = -1;
 name = "fa-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 395, 0}";
 }
@@ -81792,9 +81979,11 @@ width = 834;
 {
 components = (
 {
+alignment = -1;
 name = "fa-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 362, 0}";
 }
@@ -81931,7 +82120,7 @@ unicode = 155C;
 {
 color = 3;
 glyphname = "f-canadian";
-lastChange = "2024-09-17 16:15:35 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -82072,8 +82261,6 @@ nodes = (
 width = 418;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 155D;
 },
 {
@@ -82160,7 +82347,7 @@ unicode = 155F;
 {
 color = 3;
 glyphname = "thi-canadian";
-lastChange = "2024-09-15 22:04:25 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -82385,8 +82572,6 @@ nodes = (
 width = 816;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 1560;
 },
 {
@@ -82430,14 +82615,16 @@ unicode = 1561;
 {
 color = 3;
 glyphname = "thii-canadian";
-lastChange = "2024-09-15 21:09:17 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "thi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 239, 0}";
 }
@@ -82448,9 +82635,11 @@ width = 846;
 {
 components = (
 {
+alignment = -1;
 name = "thi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 262, 0}";
 }
@@ -82461,9 +82650,11 @@ width = 806;
 {
 components = (
 {
+alignment = -1;
 name = "thi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 258, 0}";
 }
@@ -82524,7 +82715,7 @@ unicode = 1563;
 {
 color = 3;
 glyphname = "tho-canadian";
-lastChange = "2024-09-15 22:02:57 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -82755,21 +82946,21 @@ nodes = (
 width = 748;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 1564;
 },
 {
 color = 3;
 glyphname = "thoo-canadian";
-lastChange = "2024-09-15 21:55:26 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "tho-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 96, 0}";
 }
@@ -82780,9 +82971,11 @@ width = 847;
 {
 components = (
 {
+alignment = -1;
 name = "tho-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 86, 0}";
 }
@@ -82793,9 +82986,11 @@ width = 818;
 {
 components = (
 {
+alignment = -1;
 name = "tho-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 75, 0}";
 }
@@ -82809,7 +83004,7 @@ unicode = 1565;
 {
 color = 3;
 glyphname = "tha-canadian";
-lastChange = "2024-09-16 19:44:28 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -82824,6 +83019,7 @@ position = "{1082, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "tho-canadian";
 transform = "{-1, 0, 0, 1, 847, 0}";
 }
@@ -82844,6 +83040,7 @@ position = "{1086, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "tho-canadian";
 transform = "{-1, 0, 0, 1, 818, 0}";
 }
@@ -82864,6 +83061,7 @@ position = "{1065, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "tho-canadian";
 transform = "{-1, 0, 0, 1, 748, 0}";
 }
@@ -82877,11 +83075,12 @@ unicode = 1566;
 {
 color = 3;
 glyphname = "thaa-canadian";
-lastChange = "2024-09-15 21:56:34 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "thoo-canadian";
 transform = "{-1, 0, 0, 1, 847, 0}";
 }
@@ -82892,6 +83091,7 @@ width = 847;
 {
 components = (
 {
+alignment = -1;
 name = "thoo-canadian";
 transform = "{-1, 0, 0, 1, 818, 0}";
 }
@@ -82902,6 +83102,7 @@ width = 818;
 {
 components = (
 {
+alignment = -1;
 name = "thoo-canadian";
 transform = "{-1, 0, 0, 1, 748, 0}";
 }
@@ -83414,7 +83615,7 @@ unicode = 1573;
 {
 color = 3;
 glyphname = "heNunavik-canadian";
-lastChange = "2024-09-17 20:40:55 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -83606,18 +83807,17 @@ nodes = (
 width = 871;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1574;
 },
 {
 color = 3;
 glyphname = "hiNunavik-canadian";
-lastChange = "2024-09-14 15:54:19 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "heNunavik-canadian";
 transform = "{-1, 0, 0, 1, 831, 0}";
 }
@@ -83628,6 +83828,7 @@ width = 831;
 {
 components = (
 {
+alignment = -1;
 name = "heNunavik-canadian";
 transform = "{-1, 0, 0, 1, 848, 0}";
 }
@@ -83638,6 +83839,7 @@ width = 848;
 {
 components = (
 {
+alignment = -1;
 name = "heNunavik-canadian";
 transform = "{-1, 0, 0, 1, 871, 0}";
 }
@@ -83651,7 +83853,7 @@ unicode = 1575;
 {
 color = 3;
 glyphname = "hiiNunavik-canadian";
-lastChange = "2024-09-14 15:56:21 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -83666,9 +83868,11 @@ position = "{884, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "hiNunavik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 337, 0}";
 }
@@ -83689,9 +83893,11 @@ position = "{914, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "hiNunavik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 341, 0}";
 }
@@ -83712,9 +83918,11 @@ position = "{927, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "hiNunavik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 348, 0}";
 }
@@ -83728,7 +83936,7 @@ unicode = 1576;
 {
 color = 3;
 glyphname = "hoNunavik-canadian";
-lastChange = "2024-09-16 17:43:52 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -83782,14 +83990,12 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 871;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1577;
 },
 {
 color = 3;
 glyphname = "hooNunavik-canadian";
-lastChange = "2024-09-14 16:07:13 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -83804,9 +84010,11 @@ position = "{872, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "hoNunavik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 282, 0}";
 }
@@ -83827,9 +84035,11 @@ position = "{914, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "hoNunavik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 288, 0}";
 }
@@ -83856,9 +84066,11 @@ position = "{922, 355}";
 );
 components = (
 {
+alignment = -1;
 name = "hoNunavik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 248, 0}";
 }
@@ -83882,11 +84094,12 @@ unicode = 1578;
 {
 color = 3;
 glyphname = "haNunavik-canadian";
-lastChange = "2024-09-16 17:55:33 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "hoNunavik-canadian";
 transform = "{-1, 0, 0, 1, 831, 0}";
 }
@@ -83897,6 +84110,7 @@ width = 831;
 {
 components = (
 {
+alignment = -1;
 name = "hoNunavik-canadian";
 transform = "{-1, 0, 0, 1, 848, 0}";
 }
@@ -83907,6 +84121,7 @@ width = 848;
 {
 components = (
 {
+alignment = -1;
 name = "hoNunavik-canadian";
 transform = "{-1, 0, 0, 1, 871, 0}";
 }
@@ -83920,11 +84135,12 @@ unicode = 1579;
 {
 color = 3;
 glyphname = "haaNunavik-canadian";
-lastChange = "2024-09-14 16:08:42 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "hooNunavik-canadian";
 transform = "{-1, 0, 0, 1, 831, 0}";
 }
@@ -83935,6 +84151,7 @@ width = 831;
 {
 components = (
 {
+alignment = -1;
 name = "hooNunavik-canadian";
 transform = "{-1, 0, 0, 1, 848, 0}";
 }
@@ -83945,6 +84162,7 @@ width = 848;
 {
 components = (
 {
+alignment = -1;
 name = "hooNunavik-canadian";
 transform = "{-1, 0, 0, 1, 871, 0}";
 }
@@ -83958,7 +84176,7 @@ unicode = 157A;
 {
 color = 3;
 glyphname = "hNunavik-canadian";
-lastChange = "2024-09-16 20:40:20 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -84141,18 +84359,17 @@ nodes = (
 width = 535;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 157B;
 },
 {
 color = 3;
 glyphname = "nunavuth-canadian";
-lastChange = "2024-09-18 00:21:25 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = H;
 }
 );
@@ -84162,6 +84379,7 @@ width = 731;
 {
 components = (
 {
+alignment = -1;
 name = H;
 }
 );
@@ -84171,6 +84389,7 @@ width = 741;
 {
 components = (
 {
+alignment = -1;
 name = H;
 }
 );
@@ -84223,14 +84442,16 @@ unicode = 157E;
 {
 color = 3;
 glyphname = "qi-canadian";
-lastChange = "2024-09-14 18:36:30 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ki-canadian";
 transform = "{1, 0, 0, 1, 327, 0}";
 }
@@ -84241,9 +84462,11 @@ width = 927;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ki-canadian";
 transform = "{1, 0, 0, 1, 323, 0}";
 }
@@ -84254,9 +84477,11 @@ width = 923;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ki-canadian";
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -84270,14 +84495,16 @@ unicode = 157F;
 {
 color = 3;
 glyphname = "qii-canadian";
-lastChange = "2024-09-14 18:36:45 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "kii-canadian";
 transform = "{1, 0, 0, 1, 327, 0}";
 }
@@ -84288,9 +84515,11 @@ width = 927;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "kii-canadian";
 transform = "{1, 0, 0, 1, 323, 0}";
 }
@@ -84301,9 +84530,11 @@ width = 923;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "kii-canadian";
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -84317,14 +84548,16 @@ unicode = 1580;
 {
 color = 3;
 glyphname = "qo-canadian";
-lastChange = "2024-09-14 18:37:09 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ko-canadian";
 transform = "{1, 0, 0, 1, 327, 0}";
 }
@@ -84335,9 +84568,11 @@ width = 927;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ko-canadian";
 transform = "{1, 0, 0, 1, 323, 0}";
 }
@@ -84348,9 +84583,11 @@ width = 923;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ko-canadian";
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -84364,14 +84601,16 @@ unicode = 1581;
 {
 color = 3;
 glyphname = "qoo-canadian";
-lastChange = "2024-09-14 18:37:26 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "koo-canadian";
 transform = "{1, 0, 0, 1, 327, 0}";
 }
@@ -84382,9 +84621,11 @@ width = 927;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "koo-canadian";
 transform = "{1, 0, 0, 1, 323, 0}";
 }
@@ -84395,9 +84636,11 @@ width = 923;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "koo-canadian";
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -84411,14 +84654,16 @@ unicode = 1582;
 {
 color = 3;
 glyphname = "qa-canadian";
-lastChange = "2024-09-14 18:37:41 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ka-canadian";
 transform = "{1, 0, 0, 1, 327, 0}";
 }
@@ -84429,9 +84674,11 @@ width = 927;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ka-canadian";
 transform = "{1, 0, 0, 1, 323, 0}";
 }
@@ -84442,9 +84689,11 @@ width = 923;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ka-canadian";
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -84458,14 +84707,16 @@ unicode = 1583;
 {
 color = 3;
 glyphname = "qaa-canadian";
-lastChange = "2024-09-14 18:37:59 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "kaa-canadian";
 transform = "{1, 0, 0, 1, 327, 0}";
 }
@@ -84476,9 +84727,11 @@ width = 927;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "kaa-canadian";
 transform = "{1, 0, 0, 1, 323, 0}";
 }
@@ -84489,9 +84742,11 @@ width = 923;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "kaa-canadian";
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -84505,11 +84760,12 @@ unicode = 1584;
 {
 color = 3;
 glyphname = "q-canadian";
-lastChange = "2024-09-16 20:40:53 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
@@ -84524,6 +84780,7 @@ width = 637;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
@@ -84538,6 +84795,7 @@ width = 643;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
@@ -84550,8 +84808,6 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 697;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1585;
 },
 {
@@ -84737,14 +84993,16 @@ unicode = 158E;
 {
 color = 3;
 glyphname = "ngi-canadian";
-lastChange = "2024-09-17 20:18:40 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ci-canadian";
 transform = "{1, 0, 0, 1, 555, 0}";
 }
@@ -84755,9 +85013,11 @@ width = 1120;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ci-canadian";
 transform = "{1, 0, 0, 1, 558, 0}";
 }
@@ -84768,9 +85028,11 @@ width = 1151;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ci-canadian";
 transform = "{1, 0, 0, 1, 617, 0}";
 }
@@ -84784,14 +85046,16 @@ unicode = 158F;
 {
 color = 3;
 glyphname = "ngii-canadian";
-lastChange = "2024-09-17 20:19:02 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "cii-canadian";
 transform = "{1, 0, 0, 1, 555, 0}";
 }
@@ -84802,9 +85066,11 @@ width = 1120;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "cii-canadian";
 transform = "{1, 0, 0, 1, 558, 0}";
 }
@@ -84815,9 +85081,11 @@ width = 1151;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "cii-canadian";
 transform = "{1, 0, 0, 1, 617, 0}";
 }
@@ -84831,14 +85099,16 @@ unicode = 1590;
 {
 color = 3;
 glyphname = "ngo-canadian";
-lastChange = "2024-09-17 20:19:26 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{1, 0, 0, 1, 555, 0}";
 }
@@ -84849,9 +85119,11 @@ width = 1155;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{1, 0, 0, 1, 558, 0}";
 }
@@ -84862,9 +85134,11 @@ width = 1151;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{1, 0, 0, 1, 617, 0}";
 }
@@ -84878,14 +85152,16 @@ unicode = 1591;
 {
 color = 3;
 glyphname = "ngoo-canadian";
-lastChange = "2024-09-17 20:23:31 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{1, 0, 0, 1, 555, 0}";
 }
@@ -84896,9 +85172,11 @@ width = 1155;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{1, 0, 0, 1, 558, 0}";
 }
@@ -84909,9 +85187,11 @@ width = 1151;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{1, 0, 0, 1, 617, 0}";
 }
@@ -84925,14 +85205,16 @@ unicode = 1592;
 {
 color = 3;
 glyphname = "nga-canadian";
-lastChange = "2024-09-17 20:23:51 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ca-canadian";
 transform = "{1, 0, 0, 1, 555, 0}";
 }
@@ -84943,9 +85225,11 @@ width = 1155;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ca-canadian";
 transform = "{1, 0, 0, 1, 558, 0}";
 }
@@ -84956,9 +85240,11 @@ width = 1151;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ca-canadian";
 transform = "{1, 0, 0, 1, 617, 0}";
 }
@@ -84972,14 +85258,16 @@ unicode = 1593;
 {
 color = 3;
 glyphname = "ngaa-canadian";
-lastChange = "2024-09-17 20:24:23 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "caa-canadian";
 transform = "{1, 0, 0, 1, 555, 0}";
 }
@@ -84990,9 +85278,11 @@ width = 1155;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "caa-canadian";
 transform = "{1, 0, 0, 1, 558, 0}";
 }
@@ -85003,9 +85293,11 @@ width = 1151;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "caa-canadian";
 transform = "{1, 0, 0, 1, 617, 0}";
 }
@@ -85019,7 +85311,7 @@ unicode = 1594;
 {
 color = 3;
 glyphname = "ng-canadian";
-lastChange = "2024-09-17 20:04:46 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 anchors = (
@@ -85244,14 +85536,12 @@ nodes = (
 width = 617;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1595;
 },
 {
 color = 3;
 glyphname = "nng-canadian";
-lastChange = "2024-09-17 20:15:24 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -85572,8 +85862,6 @@ nodes = (
 width = 944;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 1596;
 },
 {
@@ -85759,7 +86047,7 @@ unicode = 159F;
 {
 color = 3;
 glyphname = "lhi-canadian";
-lastChange = "2024-09-17 20:42:09 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 anchors = (
@@ -85770,6 +86058,7 @@ position = "{629, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "li-canadian";
 }
 );
@@ -85797,6 +86086,7 @@ position = "{597, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "li-canadian";
 }
 );
@@ -85824,6 +86114,7 @@ position = "{573, 710}";
 );
 components = (
 {
+alignment = -1;
 name = "li-canadian";
 }
 );
@@ -85848,14 +86139,16 @@ unicode = 15A0;
 {
 color = 3;
 glyphname = "lhii-canadian";
-lastChange = "2024-09-17 20:42:09 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "lhi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 418, 0}";
 }
@@ -85866,9 +86159,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "lhi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 386, 0}";
 }
@@ -85879,9 +86174,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "lhi-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 350, 0}";
 }
@@ -85895,11 +86192,12 @@ unicode = 15A1;
 {
 color = 3;
 glyphname = "lho-canadian";
-lastChange = "2024-09-17 20:45:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 }
 );
@@ -85921,6 +86219,7 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 }
 );
@@ -85942,6 +86241,7 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "lo-canadian";
 }
 );
@@ -85966,14 +86266,16 @@ unicode = 15A2;
 {
 color = 3;
 glyphname = "lhoo-canadian";
-lastChange = "2024-09-17 20:46:12 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "lho-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 360, -168}";
 }
@@ -85984,9 +86286,11 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "lho-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 351, -168}";
 }
@@ -85997,9 +86301,11 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "lho-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 315, -168}";
 }
@@ -86013,11 +86319,12 @@ unicode = 15A3;
 {
 color = 3;
 glyphname = "lha-canadian";
-lastChange = "2024-09-17 20:46:48 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "lho-canadian";
 transform = "{-1, 0, 0, 1, 874, 0}";
 }
@@ -86028,6 +86335,7 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "lho-canadian";
 transform = "{-1, 0, 0, 1, 873, 0}";
 }
@@ -86038,6 +86346,7 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "lho-canadian";
 transform = "{-1, 0, 0, 1, 858, 0}";
 }
@@ -86051,11 +86360,12 @@ unicode = 15A4;
 {
 color = 3;
 glyphname = "lhaa-canadian";
-lastChange = "2024-09-17 20:47:04 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "lhoo-canadian";
 transform = "{-1, 0, 0, 1, 874, 0}";
 }
@@ -86066,6 +86376,7 @@ width = 874;
 {
 components = (
 {
+alignment = -1;
 name = "lhoo-canadian";
 transform = "{-1, 0, 0, 1, 873, 0}";
 }
@@ -86076,6 +86387,7 @@ width = 873;
 {
 components = (
 {
+alignment = -1;
 name = "lhoo-canadian";
 transform = "{-1, 0, 0, 1, 858, 0}";
 }
@@ -86089,11 +86401,12 @@ unicode = 15A5;
 {
 color = 3;
 glyphname = "lh-canadian";
-lastChange = "2024-09-18 00:20:14 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "l-canadian";
 }
 );
@@ -86115,6 +86428,7 @@ width = 473;
 {
 components = (
 {
+alignment = -1;
 name = "l-canadian";
 }
 );
@@ -86136,6 +86450,7 @@ width = 481;
 {
 components = (
 {
+alignment = -1;
 name = "l-canadian";
 }
 );
@@ -86180,180 +86495,201 @@ unicode = 15A7;
 {
 color = 3;
 glyphname = "thiThCree-canadian";
-lastChange = "2024-09-17 19:18:22 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 92, 0}";
 },
 {
+alignment = -1;
 name = g727;
-transform = "{1, 0, 0, -1, -107, 710}";
+transform = "{1, 0, 0, -1, -95, 710}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 571;
+width = 583;
 },
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 81, 0}";
 },
 {
+alignment = -1;
 name = g727;
-transform = "{1, 0, 0, -1, 4, 710}";
+transform = "{1, 0, 0, -1, 5, 710}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 621;
+width = 622;
 },
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 110, 0}";
 },
 {
+alignment = -1;
 name = g727;
-transform = "{1, 0, 0, -1, -129, 710}";
+transform = "{1, 0, 0, -1, -99, 710}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 684;
+width = 714;
 }
 );
-leftMetricsKey = "=+80";
 unicode = 15A8;
 },
 {
 color = 3;
 glyphname = "thiiThCree-canadian";
-lastChange = "2024-09-17 19:23:45 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
-transform = "{1, 0, 0, 1, 100, 0}";
+transform = "{1, 0, 0, 1, 112, 0}";
 },
 {
+alignment = -1;
 name = g727;
-transform = "{1, 0, 0, -1, -87, 710}";
+transform = "{1, 0, 0, -1, -75, 710}";
 },
 {
+alignment = -1;
 name = g724;
-transform = "{1, 0, 0, 1, -40, 0}";
+transform = "{1, 0, 0, 1, -28, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 591;
+width = 603;
 },
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
-transform = "{1, 0, 0, 1, 100, 0}";
+transform = "{1, 0, 0, 1, 101, 0}";
 },
 {
+alignment = -1;
 name = g727;
-transform = "{1, 0, 0, -1, 24, 710}";
+transform = "{1, 0, 0, -1, 25, 710}";
 },
 {
+alignment = -1;
 name = g724;
-transform = "{1, 0, 0, 1, -4, 0}";
+transform = "{1, 0, 0, 1, -3, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 641;
+width = 642;
 },
 {
 components = (
 {
+alignment = -1;
 name = "yi-canadian";
-transform = "{1, 0, 0, 1, 100, 0}";
+transform = "{1, 0, 0, 1, 130, 0}";
 },
 {
+alignment = -1;
 name = g727;
-transform = "{1, 0, 0, -1, -109, 710}";
+transform = "{1, 0, 0, -1, -79, 710}";
 },
 {
+alignment = -1;
 name = g724;
-transform = "{1, 0, 0, 1, 28, 0}";
+transform = "{1, 0, 0, 1, 58, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 704;
+width = 734;
 }
 );
-leftMetricsKey = "=+100";
 unicode = 15A9;
 },
 {
 color = 3;
 glyphname = "thoThCree-canadian";
-lastChange = "2024-09-17 19:27:39 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -76, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 700;
+width = 602;
 },
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, 46, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 641;
+width = 642;
 },
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -17, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 700;
+width = 743;
 }
 );
-rightMetricsKey = "=+100";
 unicode = 15AA;
 },
 {
 color = 3;
 glyphname = "thooThCree-canadian";
-lastChange = "2024-09-17 19:28:15 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 199, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -76, 0}";
 }
@@ -86364,13 +86700,16 @@ width = 600;
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 226, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, 46, 0}";
 }
@@ -86381,13 +86720,16 @@ width = 541;
 {
 components = (
 {
+alignment = -1;
 name = "yo-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 245, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -17, 0}";
 }
@@ -86401,11 +86743,12 @@ unicode = 15AB;
 {
 color = 3;
 glyphname = "thaThCree-canadian";
-lastChange = "2024-09-17 19:28:40 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "thoThCree-canadian";
 transform = "{-1, 0, 0, 1, 700, 0}";
 }
@@ -86416,6 +86759,7 @@ width = 700;
 {
 components = (
 {
+alignment = -1;
 name = "thoThCree-canadian";
 transform = "{-1, 0, 0, 1, 641, 0}";
 }
@@ -86426,6 +86770,7 @@ width = 641;
 {
 components = (
 {
+alignment = -1;
 name = "thoThCree-canadian";
 transform = "{-1, 0, 0, 1, 700, 0}";
 }
@@ -86439,46 +86784,48 @@ unicode = 15AC;
 {
 color = 3;
 glyphname = "thaaThCree-canadian";
-lastChange = "2024-09-17 19:29:29 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "thooThCree-canadian";
-transform = "{-1, 0, 0, 1, 700, 0}";
+transform = "{-1, 0, 0, 1, 602, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 700;
+width = 602;
 },
 {
 components = (
 {
+alignment = -1;
 name = "thooThCree-canadian";
-transform = "{-1, 0, 0, 1, 641, 0}";
+transform = "{-1, 0, 0, 1, 642, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 641;
+width = 642;
 },
 {
 components = (
 {
+alignment = -1;
 name = "thooThCree-canadian";
-transform = "{-1, 0, 0, 1, 700, 0}";
+transform = "{-1, 0, 0, 1, 743, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 700;
+width = 743;
 }
 );
-leftMetricsKey = "=+100";
 unicode = 15AD;
 },
 {
 color = 3;
 glyphname = "thThCree-canadian";
-lastChange = "2024-09-17 19:37:37 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
@@ -86568,8 +86915,6 @@ nodes = (
 width = 407;
 }
 );
-leftMetricsKey = "e-canadian";
-rightMetricsKey = "e-canadian";
 unicode = 15AE;
 },
 {
@@ -90375,14 +90720,16 @@ unicode = 166C;
 {
 color = 3;
 glyphname = "qai-canadian";
-lastChange = "2024-09-14 18:36:00 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ke-canadian";
 transform = "{1, 0, 0, 1, 327, 0}";
 }
@@ -90393,9 +90740,11 @@ width = 927;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ke-canadian";
 transform = "{1, 0, 0, 1, 323, 0}";
 }
@@ -90406,9 +90755,11 @@ width = 923;
 {
 components = (
 {
+alignment = -1;
 name = "r-canadian";
 },
 {
+alignment = -1;
 name = "ke-canadian";
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -90422,14 +90773,16 @@ unicode = 166F;
 {
 color = 3;
 glyphname = "ngai-canadian";
-lastChange = "2024-09-17 20:16:33 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ce-canadian";
 transform = "{1, 0, 0, 1, 555, 0}";
 }
@@ -90440,9 +90793,11 @@ width = 1120;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ce-canadian";
 transform = "{1, 0, 0, 1, 558, 0}";
 }
@@ -90453,9 +90808,11 @@ width = 1151;
 {
 components = (
 {
+alignment = -1;
 name = "ng-canadian";
 },
 {
+alignment = -1;
 name = "ce-canadian";
 transform = "{1, 0, 0, 1, 617, 0}";
 }
@@ -90469,14 +90826,16 @@ unicode = 1670;
 {
 color = 3;
 glyphname = "nngi-canadian";
-lastChange = "2024-09-17 20:24:21 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "ci-canadian";
 transform = "{1, 0, 0, 1, 820, 0}";
 }
@@ -90487,9 +90846,11 @@ width = 1385;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "ci-canadian";
 transform = "{1, 0, 0, 1, 835, 0}";
 }
@@ -90500,9 +90861,11 @@ width = 1428;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "ci-canadian";
 transform = "{1, 0, 0, 1, 944, 0}";
 }
@@ -90516,14 +90879,16 @@ unicode = 1671;
 {
 color = 3;
 glyphname = "nngii-canadian";
-lastChange = "2024-09-17 20:24:36 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "cii-canadian";
 transform = "{1, 0, 0, 1, 820, 0}";
 }
@@ -90534,9 +90899,11 @@ width = 1385;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "cii-canadian";
 transform = "{1, 0, 0, 1, 835, 0}";
 }
@@ -90547,9 +90914,11 @@ width = 1428;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "cii-canadian";
 transform = "{1, 0, 0, 1, 944, 0}";
 }
@@ -90563,14 +90932,16 @@ unicode = 1672;
 {
 color = 3;
 glyphname = "nngo-canadian";
-lastChange = "2024-09-17 20:25:21 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{1, 0, 0, 1, 820, 0}";
 }
@@ -90581,9 +90952,11 @@ width = 1420;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{1, 0, 0, 1, 835, 0}";
 }
@@ -90594,9 +90967,11 @@ width = 1428;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "co-canadian";
 transform = "{1, 0, 0, 1, 944, 0}";
 }
@@ -90610,14 +90985,16 @@ unicode = 1673;
 {
 color = 3;
 glyphname = "nngoo-canadian";
-lastChange = "2024-09-17 20:25:19 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{1, 0, 0, 1, 820, 0}";
 }
@@ -90628,9 +91005,11 @@ width = 1420;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{1, 0, 0, 1, 835, 0}";
 }
@@ -90641,9 +91020,11 @@ width = 1428;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "coo-canadian";
 transform = "{1, 0, 0, 1, 944, 0}";
 }
@@ -90657,14 +91038,16 @@ unicode = 1674;
 {
 color = 3;
 glyphname = "nnga-canadian";
-lastChange = "2024-09-17 20:25:39 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "ca-canadian";
 transform = "{1, 0, 0, 1, 820, 0}";
 }
@@ -90675,9 +91058,11 @@ width = 1420;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "ca-canadian";
 transform = "{1, 0, 0, 1, 835, 0}";
 }
@@ -90688,9 +91073,11 @@ width = 1428;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "ca-canadian";
 transform = "{1, 0, 0, 1, 944, 0}";
 }
@@ -90704,14 +91091,16 @@ unicode = 1675;
 {
 color = 3;
 glyphname = "nngaa-canadian";
-lastChange = "2024-09-17 20:26:45 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "caa-canadian";
 transform = "{1, 0, 0, 1, 820, 0}";
 }
@@ -90722,9 +91111,11 @@ width = 1420;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "caa-canadian";
 transform = "{1, 0, 0, 1, 835, 0}";
 }
@@ -90735,9 +91126,11 @@ width = 1428;
 {
 components = (
 {
+alignment = -1;
 name = "nng-canadian";
 },
 {
+alignment = -1;
 name = "caa-canadian";
 transform = "{1, 0, 0, 1, 944, 0}";
 }
@@ -92294,14 +92687,16 @@ unicode = 18F5;
 {
 color = 3;
 glyphname = "haNattilik-canadian";
-lastChange = "2024-09-17 18:52:20 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -140, 0}";
 }
@@ -92312,9 +92707,11 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -38, 0}";
 }
@@ -92325,9 +92722,11 @@ width = 632;
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -192, 0}";
 }
@@ -92341,18 +92740,21 @@ unicode = 11AB4;
 {
 color = 3;
 glyphname = "haaNattilik-canadian";
-lastChange = "2024-09-17 18:53:15 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -81, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -140, 0}";
 }
@@ -92363,13 +92765,16 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -64, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -38, 0}";
 }
@@ -92380,13 +92785,16 @@ width = 632;
 {
 components = (
 {
+alignment = -1;
 name = "sa-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, -66, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -192, 0}";
 }
@@ -92400,7 +92808,7 @@ unicode = 11AB5;
 {
 color = 3;
 glyphname = "hiNattilik-canadian";
-lastChange = "2024-09-17 19:11:59 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
@@ -92451,21 +92859,21 @@ layerId = "CD86D743-087E-48CD-95ED-391136C80322";
 width = 724;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 11AB0;
 },
 {
 color = 3;
 glyphname = "hiiNattilik-canadian";
-lastChange = "2024-09-17 19:14:49 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "hiNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 346, 0}";
 }
@@ -92476,9 +92884,11 @@ width = 687;
 {
 components = (
 {
+alignment = -1;
 name = "hiNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 338, 0}";
 }
@@ -92489,9 +92899,11 @@ width = 695;
 {
 components = (
 {
+alignment = -1;
 name = "hiNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 344, 0}";
 }
@@ -92505,67 +92917,74 @@ unicode = 11AB1;
 {
 color = 3;
 glyphname = "hoNattilik-canadian";
-lastChange = "2024-09-17 18:48:47 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-width = 602;
+width = 688;
 },
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 632;
+width = 697;
 },
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, 8, 0}";
 }
 );
 layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-width = 657;
+width = 728;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 11AB2;
 },
 {
 color = 3;
 glyphname = "hooNattilik-canadian";
-lastChange = "2024-09-17 18:44:35 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 261, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, -10, 0}";
 }
@@ -92576,13 +92995,16 @@ width = 602;
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 274, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, 99, 0}";
 }
@@ -92593,13 +93015,16 @@ width = 632;
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 277, 0}";
 },
 {
+alignment = -1;
 name = g727;
 transform = "{1, 0, 0, 1, 8, 0}";
 }
@@ -92613,11 +93038,12 @@ unicode = 11AB3;
 {
 color = 3;
 glyphname = "shraNattilik-canadian";
-lastChange = "2024-09-18 00:09:19 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "shroNattilik-canadian";
 transform = "{-1, 0, 0, 1, 868, 0}";
 }
@@ -92628,6 +93054,7 @@ width = 868;
 {
 components = (
 {
+alignment = -1;
 name = "shroNattilik-canadian";
 transform = "{-1, 0, 0, 1, 887, 0}";
 }
@@ -92638,6 +93065,7 @@ width = 887;
 {
 components = (
 {
+alignment = -1;
 name = "shroNattilik-canadian";
 transform = "{-1, 0, 0, 1, 929, 0}";
 }
@@ -92651,11 +93079,12 @@ unicode = 11ABA;
 {
 color = 3;
 glyphname = "shraaNattilik-canadian";
-lastChange = "2024-09-18 00:10:35 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "shrooNattilik-canadian";
 transform = "{-1, 0, 0, 1, 868, 0}";
 }
@@ -92666,6 +93095,7 @@ width = 868;
 {
 components = (
 {
+alignment = -1;
 name = "shrooNattilik-canadian";
 transform = "{-1, 0, 0, 1, 887, 0}";
 }
@@ -92676,6 +93106,7 @@ width = 887;
 {
 components = (
 {
+alignment = -1;
 name = "shrooNattilik-canadian";
 transform = "{-1, 0, 0, 1, 929, 0}";
 }
@@ -92689,11 +93120,12 @@ unicode = 11ABB;
 {
 color = 3;
 glyphname = "shriNattilik-canadian";
-lastChange = "2024-09-17 20:55:28 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "si-canadian";
 }
 );
@@ -92714,6 +93146,7 @@ width = 868;
 {
 components = (
 {
+alignment = -1;
 name = "si-canadian";
 transform = "{1, 0, 0, 1, -2, 0}";
 }
@@ -92735,6 +93168,7 @@ width = 887;
 {
 components = (
 {
+alignment = -1;
 name = "si-canadian";
 }
 );
@@ -92753,21 +93187,21 @@ nodes = (
 width = 929;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 11AB6;
 },
 {
 color = 3;
 glyphname = "shriiNattilik-canadian";
-lastChange = "2024-09-17 20:55:51 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "shriNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 261, 0}";
 }
@@ -92778,9 +93212,11 @@ width = 868;
 {
 components = (
 {
+alignment = -1;
 name = "shriNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 275, 0}";
 }
@@ -92791,9 +93227,11 @@ width = 887;
 {
 components = (
 {
+alignment = -1;
 name = "shriNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 277, 0}";
 }
@@ -92807,11 +93245,12 @@ unicode = 11AB7;
 {
 color = 3;
 glyphname = "shroNattilik-canadian";
-lastChange = "2024-09-18 00:08:14 +0000";
+lastChange = "2024-09-18 00:31:41 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 transform = "{1, 0, 0, 1, 266, 0}";
 }
@@ -92833,6 +93272,7 @@ width = 868;
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 transform = "{1, 0, 0, 1, 255, 0}";
 }
@@ -92854,6 +93294,7 @@ width = 887;
 {
 components = (
 {
+alignment = -1;
 name = "so-canadian";
 transform = "{1, 0, 0, 1, 272, 0}";
 }
@@ -92873,21 +93314,21 @@ nodes = (
 width = 929;
 }
 );
-leftMetricsKey = "=e-canadian*2";
-rightMetricsKey = "=e-canadian*2";
 unicode = 11AB8;
 },
 {
 color = 3;
 glyphname = "shrooNattilik-canadian";
-lastChange = "2024-09-18 00:08:46 +0000";
+lastChange = "2024-09-18 00:29:02 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = "shroNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 527, 0}";
 }
@@ -92898,9 +93339,11 @@ width = 868;
 {
 components = (
 {
+alignment = -1;
 name = "shroNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 529, 0}";
 }
@@ -92911,9 +93354,11 @@ width = 887;
 {
 components = (
 {
+alignment = -1;
 name = "shroNattilik-canadian";
 },
 {
+alignment = -1;
 name = g724;
 transform = "{1, 0, 0, 1, 549, 0}";
 }

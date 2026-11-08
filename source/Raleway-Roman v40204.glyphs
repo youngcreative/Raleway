@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"/thi-canadian"
+);
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
@@ -262,7 +265,6 @@ verticalStems = (
 0,
 0
 );
-visible = 1;
 weight = Light;
 weightValue = 0;
 xHeight = 519;
@@ -418,7 +420,6 @@ verticalStems = (
 195,
 198
 );
-visible = 1;
 weight = Bold;
 weightValue = 1000;
 xHeight = 526;
@@ -130883,67 +130884,6 @@ width = 220;
 );
 note = g724;
 rightMetricsKey = "=|";
-},
-{
-export = 0;
-glyphname = g725_right;
-lastChange = "2024-10-21 20:22:31 +0000";
-layers = (
-{
-anchors = (
-{
-name = _right;
-position = "{400, 355}";
-}
-);
-components = (
-{
-alignment = -1;
-name = g724;
-transform = "{1, 0, 0, 1, -63, -470}";
-}
-);
-layerId = "DC0D5209-C0CE-4187-A591-293A64199C8F";
-vertWidth = 0;
-width = 400;
-},
-{
-anchors = (
-{
-name = _right;
-position = "{400, 355}";
-}
-);
-components = (
-{
-alignment = -1;
-name = g724;
-transform = "{1, 0, 0, 1, -63, -470}";
-}
-);
-layerId = "A8272220-FCE5-4C48-BDEF-D37440F7149C";
-width = 400;
-},
-{
-anchors = (
-{
-name = _right;
-position = "{400, 355}";
-}
-);
-components = (
-{
-alignment = -1;
-name = g724;
-transform = "{1, 0, 0, 1, -63, -480}";
-}
-);
-layerId = "CD86D743-087E-48CD-95ED-391136C80322";
-vertWidth = 0;
-width = 400;
-}
-);
-note = g724;
 },
 {
 export = 0;

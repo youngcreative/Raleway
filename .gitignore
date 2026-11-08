@@ -1,7 +1,8 @@
 # macOS metadata
 .DS_Store
 .Nova
-Links.md
 dir_to_ignore/
+
+# My files
+Links.md
 Reference/
-Proofs/

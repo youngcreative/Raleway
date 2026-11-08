@@ -1,5 +1,5 @@
 {
-.appVersion = "3532";
+.appVersion = "4108";
 copyright = "Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)";
 customParameters = (
 {
@@ -41,10 +41,10 @@ Tag = wght;
 );
 }
 );
-date = "2025-04-12 21:12:54 +0000";
+date = "2026-11-08 21:47:23 +0000";
 designer = "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida";
 designerURL = "http://pixelspread.com";
-familyName = "Raleway-v40205";
+familyName = "Raleway-v5006";
 featurePrefixes = (
 {
 automatic = 1;
@@ -69176,7 +69176,7 @@ unicode = 1482;
 {
 color = 3;
 glyphname = "k-canadian";
-lastChange = "2026-10-24 15:49:56 +0000";
+lastChange = "2026-11-08 21:48:21 +0000";
 layers = (
 {
 anchors = (
@@ -109509,7 +109509,7 @@ unicode = 142A;
 {
 color = 10;
 glyphname = "thFinalWoodScree-canadian";
-lastChange = "2024-10-22 01:01:52 +0000";
+lastChange = "2026-11-08 20:42:03 +0000";
 layers = (
 {
 components = (
@@ -109519,6 +109519,7 @@ name = "hyphen-canadian";
 transform = "{1, 0, 0, 1, 0, 177}";
 },
 {
+alignment = -1;
 name = "pWestCree-canadian";
 transform = "{1, 0, 0, 1.0219, 166, -16}";
 }
@@ -109534,6 +109535,7 @@ name = "hyphen-canadian";
 transform = "{1, 0, 0, 1, 0, 177}";
 },
 {
+alignment = -1;
 name = "pWestCree-canadian";
 transform = "{1, 0, 0, 1.0219, 133, -16}";
 }
@@ -109549,6 +109551,7 @@ name = "hyphen-canadian";
 transform = "{1, 0, 0, 0.7077, 0, 271}";
 },
 {
+alignment = -1;
 name = "pWestCree-canadian";
 transform = "{0.6762, 0, 0, 1.0219, 133, -16}";
 }
@@ -159559,6 +159562,6 @@ uni04B0,
 uni04B1
 );
 };
-versionMajor = 4;
-versionMinor = 205;
+versionMajor = 5;
+versionMinor = 6;
 }

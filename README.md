@@ -2,8 +2,13 @@ Raleway Fonts
 ====================
 
 ## Current Status
-- Version 3.001 is the latest stable version.
-- Version 4.xxx is an ongoing migration to Glyphs and Vietnamese and Cyrillic extension, but is still a work in progress.
+- Version 5.xxx is an ongoing expansion of Raleway to include Canadian Syllabics.
+
+#### Canadian Syllabics
+
+Michael J. Young (@youngcreative) is in the process of adding Canadian Syllabics (UCAS) to support the following languages:
+
+Cree, Inuktut, Ojibwe, Naskapi, Carrier, North Slavey, South Slavey, Beaver, Nadot’en-Witsuwit’en, Blackfoot, Chipewyan, Sayisi Dene, Tsek’ene.
 
 ## Description
 
